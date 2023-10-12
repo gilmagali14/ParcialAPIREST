@@ -44,7 +44,7 @@ jar {
 
 	manifest {
 
-		attributes 'ApiresTspApplicationTests': 'com.example.demo.ApiresTspApplicationTests' // Reemplaza 'tu.paquete.MainClass' con la clase principal de tu aplicación
+		attributes 'ApiresTspApplication': 'com.example.demo.ApiresTspApplication' // Reemplaza 'tu.paquete.MainClass' con la clase principal de tu aplicación
 
 	}
 
